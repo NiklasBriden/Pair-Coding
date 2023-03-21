@@ -11,6 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "moment-timezone": "^0.5.41",
+    "nodemon": "^2.0.21",
     "timezones.json": "^1.7.0"
   }
 }
