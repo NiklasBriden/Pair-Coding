@@ -1,0 +1,16 @@
+{
+  "name": "pair-coding",
+  "version": "1.0.0",
+  "description": "Niklas and Supun tries to pair code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "moment-timezone": "^0.5.41",
+    "timezones.json": "^1.7.0"
+  }
+}
